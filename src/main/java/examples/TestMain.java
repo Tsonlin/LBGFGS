@@ -16,7 +16,6 @@ public class TestMain {
         return result + thea[thea.length - 1];
     }
 
-
     public static void main(String[] args) {
         int sample_size = 1000;
         Random random = new Random();
